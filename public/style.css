@@ -1,0 +1,17 @@
+.main-container {
+	display: flex;
+	flex-direction: row;
+}
+.search-results {
+	margin-left: 5rem;
+}
+.search-results__owners {
+	max-height: 20rem;
+	width: 50vw;
+	overflow: auto;
+}
+.search-results__pets {
+	max-height: 20rem;
+	width: 50vw;
+	overflow: auto;
+}
